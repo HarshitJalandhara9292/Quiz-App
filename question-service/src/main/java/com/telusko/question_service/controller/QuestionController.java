@@ -60,10 +60,4 @@ public class QuestionController {
     {
         return questionService.getScore(responses);
     }
-
-
-
-    // Generate
-    // getQuestions (questionid)
-    // getScore
 }
